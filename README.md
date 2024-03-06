@@ -5,7 +5,7 @@
 ### Сборка и запуск:
 
 `git clone https://github.com/silenthnowakeup/walkdir.git`  
-`cd OSaSP/lab01`  
+`cd walkdir`  
 
 `make MODE=release`  
 или  
