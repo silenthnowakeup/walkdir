@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /home/silenth/OSaSP/lab01 Select CMakeLists.txt
