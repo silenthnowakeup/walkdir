@@ -11,7 +11,7 @@
 или  
 `make MODE=debug`
 
-`.пше`
+`./build/debug/walkdir [dir] [options]`
 
 ### Options:
 Программа поддерживает опции -l, -d, -f, -s.
